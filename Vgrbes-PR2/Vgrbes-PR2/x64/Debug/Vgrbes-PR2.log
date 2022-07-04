@@ -1,0 +1,8 @@
+﻿  funkcije.c
+C:\Users\38599\Desktop\Vgrbes-PR2\Vgrbes-PR2\funkcije.c(118,3): warning C4033: 'pretraziPokemone' must return a value
+  izbornik.c
+  main.c
+  Generating Code...
+C:\Users\38599\Desktop\Vgrbes-PR2\Vgrbes-PR2\funkcije.c(140): warning C4715: 'pretraziPokemone': not all control paths return a value
+  LINK : C:\Users\38599\Desktop\Vgrbes-PR2\x64\Debug\Vgrbes-PR2.exe not found or not built by the last incremental link; performing full link
+  Vgrbes-PR2.vcxproj -> C:\Users\38599\Desktop\Vgrbes-PR2\x64\Debug\Vgrbes-PR2.exe
