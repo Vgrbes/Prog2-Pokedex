@@ -204,5 +204,5 @@ void brisanjePokemona(POKEMON* const polje, const char* const dat) {
 	fwrite(&counter, sizeof(int), 1, fp);
 	fclose(fp);
 
-	printf("Puska je uspjesno obrisana\n");
+	printf("Pokemon je uspjesno obrisan. \n");
 }
